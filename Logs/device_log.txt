@@ -1,0 +1,5 @@
+10:00:01 INFO Device connected
+10:00:02 INFO Temperature: 35.5
+10:00:03 WARNING High temperature
+10:00:04 ERROR Communication timeout
+10:00:05 INFO Device disconnected
